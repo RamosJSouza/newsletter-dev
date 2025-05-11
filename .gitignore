@@ -1,6 +1,7 @@
 # generated files
 target/
 generated/
+.obsidian/
 
 # dependencies
 Dependencies.toml

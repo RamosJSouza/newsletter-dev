@@ -6,6 +6,15 @@
 
 Bem-vindo ao repositório oficial da **Newsletter E-Zine Dev Ramos da Informática**! Este é um espaço dedicado a desenvolvedores e entusiastas em tecnologia, com foco em conteúdo de alta qualidade e insights práticos do universo dev.
 
+> ℹ️ **Status do Projeto**
+> - 🚧 **Em Desenvolvimento**: Estamos continuamente aprimorando a estrutura e organização do conteúdo
+> - 📥 **Conteúdo Atual**: Disponibilizadas todas as newsletters publicadas no LinkedIn (2025)
+> - 📧 **Próximas Atualizações**: 
+>   - Integração das newsletters enviadas por email
+>   - Melhorias na busca e categorização
+>   - Implementação de novos recursos interativos
+> - 🔄 **Última Atualização**: 11 de Maio de 2025
+
 ## ✉️ Sobre a Newsletter
 
 A cada semana, entregamos um compilado cuidadosamente curado de:
