@@ -1,0 +1,91 @@
+<!-- Newsletter Header Component -->
+<header class="newsletter-header">
+  <div class="logo">
+    <img src="../assets/icons/newsletter-logo.png" alt="E-Zine Dev Logo" width="150">
+  </div>
+  
+  <div class="meta">
+    <div class="date">{{ date | formatDate }}</div>
+    <div class="edition">Edição #{{ edition }}</div>
+    <div class="author">por {{ author }}</div>
+  </div>
+
+  <div class="categories">
+    {% for category in categories %}
+    <span class="category-tag">{{ category }}</span>
+    {% endfor %}
+  </div>
+
+  <div class="social-share">
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ url }}" 
+       class="share-button linkedin">
+      Compartilhar no LinkedIn
+    </a>
+    <a href="https://twitter.com/intent/tweet?text={{ title }}&url={{ url }}" 
+       class="share-button twitter">
+      Compartilhar no Twitter
+    </a>
+  </div>
+</header>
+
+<style>
+.newsletter-header {
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid #eee;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+}
+
+.logo {
+  margin-bottom: 1rem;
+}
+
+.meta {
+  display: flex;
+  gap: 1rem;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.categories {
+  margin: 1rem 0;
+}
+
+.category-tag {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  margin-right: 0.5rem;
+  background: #f0f0f0;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  color: #444;
+}
+
+.social-share {
+  margin-top: 1rem;
+}
+
+.share-button {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: opacity 0.2s;
+}
+
+.share-button:hover {
+  opacity: 0.9;
+}
+
+.share-button.linkedin {
+  background: #0077b5;
+  color: white;
+}
+
+.share-button.twitter {
+  background: #1da1f2;
+  color: white;
+}
+</style>
