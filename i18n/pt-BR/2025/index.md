@@ -1,6 +1,8 @@
 # 📅 Newsletter E-Zine Dev 2025
 
-[![Artigos](https://img.shields.io/badge/artigos-9-blue.svg)](#)
+[🇧🇷 Português](#) | [🇺🇸 English](/i18n/en-US/2025/index.md)
+
+[![Artigos](https://img.shields.io/badge/artigos-11-blue.svg)](#)
 [![Categorias](https://img.shields.io/badge/categorias-5-green.svg)](#)
 
 Bem-vindo ao arquivo de 2025 da Newsletter E-Zine Dev! Aqui você encontra todas as edições organizadas por categoria.

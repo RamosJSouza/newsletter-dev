@@ -1,24 +1,12 @@
 # 📰 Newsletter E-Zine Dev Ramos da Informática
 
-[🇧🇷 Português](#português) | [🇺🇸 English](#english)
-
----
-## English
-
-Welcome to the official repository of **Newsletter E-Zine Dev Ramos da Informática**! This space is dedicated to developers and tech enthusiasts, focusing on high-quality content and practical insights from the dev universe.
-
-> For the complete English version, please visit: [English Documentation](i18n/en-US/README.md)
-
----
-## Português
+[🇧🇷 Português](#) | [🇺🇸 English](/i18n/en-US/README.md)
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Newsletter Subscribers](https://img.shields.io/badge/subscribers-5000+-blue.svg)](https://ramosdainformatica.com.br/newsletter)
 [![GitHub stars](https://img.shields.io/github/stars/ramosinfo/newsletter.svg)](https://github.com/ramosinfo/newsletter/stargazers)
 
-Bem-vindo ao repositório oficial da **Newsletter E-Zine Dev Ramos da Informática**! Este é um espaço dedicado a desenvolvedores e entusiastas em tecnologia, com foco em conteúdo de alta qualidade e insights práticos do universo dev.
-
-> 🌐 **Language Notice**: This repository is available in both Portuguese and English. English speakers can find the complete documentation at [i18n/en-US/README.md](i18n/en-US/README.md).
+Bem-vindo ao repositório oficial da **Newsletter E-Zine Dev Ramos da Informática**! Este espaço é dedicado a desenvolvedores e entusiastas de tecnologia, com foco em conteúdo de alta qualidade e insights práticos do universo dev.
 
 > ℹ️ **Status do Projeto**
 > - 🚧 **Em Desenvolvimento**: Estamos continuamente aprimorando a estrutura e organização do conteúdo
@@ -27,7 +15,19 @@ Bem-vindo ao repositório oficial da **Newsletter E-Zine Dev Ramos da Informáti
 >   - Integração das newsletters enviadas por email
 >   - Melhorias na busca e categorização
 >   - Implementação de novos recursos interativos
-> - 🔄 **Última Atualização**: 11 de Maio de 2025
+> - 🔄 **Última Atualização**: 17 de Maio de 2025
+
+> 🌐 **Language Notice**: This repository is available in both Portuguese and English. English speakers can find the complete documentation at [i18n/en-US/README.md](/i18n/en-US/README.md).
+
+---
+
+## English
+
+Welcome to the official repository of **Newsletter E-Zine Dev Ramos da Informática**! This space is dedicated to developers and tech enthusiasts, focusing on high-quality content and practical insights from the dev universe.
+
+> For the complete English version, please visit: [English Documentation](/i18n/en-US/README.md)
+
+---
 
 ## ✉️ Sobre a Newsletter
 
@@ -46,6 +46,7 @@ A cada semana, entregamos um compilado cuidadosamente curado de:
 - Atualizações semanais consistentes
 
 ---
+
 ## 🎯 Objetivos do Repositório
 
 Este repositório serve como um arquivo público e organizado de todas as edições da newsletter. Ele visa:
@@ -55,6 +56,7 @@ Este repositório serve como um arquivo público e organizado de todas as ediç�
 - Servir como portfólio digital do meu trabalho como Desenvolvedor Fullstack e entusiasta em tecnologia.
 
 ---
+
 ## 🗂️ Estrutura do Repositório
 
 ```
@@ -93,6 +95,7 @@ newsletter/
 - [Frontend Development](./tags/frontend.md)
 
 ---
+
 ## 🤝 Como Contribuir
 
 Contribuições são super bem-vindas! Você pode:
@@ -105,6 +108,7 @@ Contribuições são super bem-vindas! Você pode:
 Consulte o arquivo [`CONTRIBUTING.md`](./CONTRIBUTING.md) para mais detalhes sobre o processo de contribuição.
 
 ---
+
 ## 🌟 Edições de Destaque
 
 - [A Próxima Evolução do Frontend: Gerenciamento de Estado com IA 🤖](2025/frontend/newsletter-linkedin-31-05-2025.md): Análise profunda sobre como a IA está transformando o desenvolvimento frontend moderno.
@@ -112,22 +116,26 @@ Consulte o arquivo [`CONTRIBUTING.md`](./CONTRIBUTING.md) para mais detalhes sob
 - [React Server Components e IA](2025/full-stack/newsletter-linkedin-24-04-2025.md): Explorando o futuro do desenvolvimento full-stack com RSC e inteligência artificial.
 
 ---
+
 ## 💸 Monetização (Entre em contato)
 
 No futuro, a newsletter poderá ser monetizada via patrocínio, conteúdo premium ou doações. O objetivo é garantir a sustentabilidade do projeto sem comprometer a qualidade e o valor para os leitores.
 
 ---
+
 ## 📬 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/ramos-souza/)
 - [Site](https://ramosdainformatica.com.br/)
 
 ---
+
 ## 📄 Licença
 
 O conteúdo deste repositório é distribuído sob a licença [Creative Commons](./LICENSE).
 
 ---
+
 ## ℹ️ Informações Adicionais
 
 - **Nome da Newsletter:** Newsletter E-Zine Dev Ramos da Informática

@@ -1,3 +1,21 @@
+---
+title: "PostgREST, Sites Figma e LangGraph.js - 17 de Maio de 2025"
+date: "2025-05-17"
+author: "Ramos de Souza Janones"
+categories: [Full Stack, Frontend, AI]
+tags: [postgrest, figma, javascript, development, ai]
+excerpt: "Explorando o PostgREST 13, polêmica do Figma Sites, e recursos do LangGraph.js"
+cover_image: "/assets/images/full-stack/may-17-2025.jpg"
+featured: false
+rating: 5
+seo_description: "Deep dive no PostgREST 13, polêmica do Figma Sites, e primeiros passos com LangGraph.js"
+canonical_url: "https://ramosdainformatica.com.br/newsletter/2025/full-stack/may-17-2025"
+translationUrl: "/newsletter/i18n/en-US/2025/full-stack/newsletter-linkedin-17-05-2025.md"
+languageVersion: "pt-BR"
+---
+
+[🇧🇷 Português](#) | [🇺🇸 English](/newsletter/i18n/en-US/2025/full-stack/newsletter-linkedin-17-05-2025.md)
+
 ***"A sobrevivência é a melhor medida de desempenho."*** –Vicki TenHaken
 
 **Nesta edição:** PostgREST, Figma Sites (polêmica!) e LangGraph.js. + Piadas de programação!

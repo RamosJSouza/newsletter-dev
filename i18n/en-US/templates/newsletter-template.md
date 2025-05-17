@@ -5,14 +5,16 @@ author: "Ramos de Souza Janones"
 categories: [Frontend, Backend, AI]
 tags: [javascript, react, nodejs]
 excerpt: "A brief description of the newsletter content"
-cover_image: "assets/images/category/image-name.jpg"
+cover_image: "../../../assets/images/{category}/{date}-{topic}.jpg"
 featured: false
 rating: 5
 seo_description: "SEO optimized description for search engines"
 canonical_url: "https://ramosdainformatica.com.br/newsletter/YYYY/category/dd-mm-yyyy"
+translationUrl: "/newsletter/i18n/pt-BR/{year}/{category}/{slug}.md"
+languageVersion: "en-US"
 ---
 
-***"Inspiring quote related to the main topic"*** – Author Name
+***"Inspiring quoterelated to the main topic"*** – Author Name
 
 **In this edition:** Brief overview of main topics covered.
 
