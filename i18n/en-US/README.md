@@ -1,10 +1,10 @@
 # 📰 Newsletter E-Zine Dev Ramos da Informática
 
+[🇧🇷 Portuguese](/newsletter/README.md) | [🇺🇸 English](#)
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Newsletter Subscribers](https://img.shields.io/badge/subscribers-5000+-blue.svg)](https://ramosdainformatica.com.br/newsletter)
 [![GitHub stars](https://img.shields.io/github/stars/ramosinfo/newsletter.svg)](https://github.com/ramosinfo/newsletter/stargazers)
-
-[🇧🇷 Portuguese](../../README.md) | [🇺🇸 English](#)
 
 Welcome to the official repository of **Newsletter E-Zine Dev Ramos da Informática**! This space is dedicated to developers and tech enthusiasts, focusing on high-quality content and practical insights from the dev universe.
 
@@ -15,7 +15,7 @@ Welcome to the official repository of **Newsletter E-Zine Dev Ramos da Informát
 >   - Integration of email newsletters
 >   - Improvements in search and categorization
 >   - Implementation of new interactive features
-> - 🔄 **Last Update**: May 11, 2025
+> - 🔄 **Last Update**: May 17, 2025
 
 ## ✉️ About the Newsletter
 

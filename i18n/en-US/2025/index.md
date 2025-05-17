@@ -1,5 +1,7 @@
 # 📅 Newsletter E-Zine Dev 2025
 
+[🇧🇷 Portuguese](/newsletter/2025/index.md) | [🇺🇸 English](#)
+
 [![Articles](https://img.shields.io/badge/articles-11-blue.svg)](#)
 [![Categories](https://img.shields.io/badge/categories-5-green.svg)](#)
 
@@ -51,3 +53,13 @@ Welcome to the 2025 archive of Newsletter E-Zine Dev! Here you'll find all editi
 - #nodejs (4 editions)
 - #react (4 editions)
 - #typescript (3 editions)
+
+## 🔍 Navigation
+
+- [Search System](../SEARCH.md)
+- [All Tags](../tags/index.md)
+- [Statistics](../STATS.md)
+
+---
+
+> 🌐 **Language Notice**: Este índice também está disponível em Português. [Ver versão em Português](/2025/index.md)

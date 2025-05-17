@@ -1,5 +1,7 @@
 # 🎨 Frontend Development
 
+[🇧🇷 Portuguese](/newsletter/tags/frontend.md) | [🇺🇸 English](#)
+
 [![Posts](https://img.shields.io/badge/posts-15+-blue.svg)](#)
 [![Last Update](https://img.shields.io/badge/last_update-May_2025-green.svg)](#)
 
@@ -8,21 +10,16 @@ All newsletters related to Frontend development, including React, Vue.js, CSS, H
 ## 📝 Latest Editions
 
 ### 2025
+- [May 31 - The Next Evolution of Frontend: AI-Powered State Management 🤖](../2025/frontend/newsletter-linkedin-31-05-2025.md)
+- [May 21 - React, Frontend and Node.js](../2025/frontend/newsletter-linkedin-21-05-2025.md)
+- [May 12 - HelloCSV, VS Code Updates](../2025/frontend/newsletter-linkedin-12-05-2025.md)
 
-- [May 31 - The Next Evolution of Frontend: State Management with AI](../../2025/frontend/newsletter-linkedin-31-05-2025.md)  
-  _Deep dive into the future of state management with AI_
+## 🔍 Navigation
 
-- [May 21 - React and Gridstack.js](../../2025/frontend/newsletter-linkedin-21-05-2025.md)  
-  _Creating interactive dashboards with React_
+- [Tag Index](index.md)
+- [All Editions](../2025/index.md)
+- [Search](../SEARCH.md)
 
-- [May 12 - HelloCSV, VS Code Updates, and Hyparquet](../../2025/frontend/newsletter-linkedin-12-05-2025.md)  
-  _New tools for CSV handling and VS Code productivity features_
+---
 
-## 🏷️ Related Topics
-- #react
-- #vuejs
-- #javascript
-- #typescript
-- #html
-- #css
-- #webdev
+> 🌐 **Language Notice**: Esta página também está disponível em Português. [Ver versão em Português](/tags/frontend.md)

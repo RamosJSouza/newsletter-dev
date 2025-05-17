@@ -1,5 +1,7 @@
 # 📚 Índice da Newsletter E-Zine Dev
 
+[🇧🇷 Português](#) | [🇺🇸 English](/newsletter/i18n/en-US/README.md)
+
 [![Update](https://img.shields.io/badge/última_atualização-Maio_2025-blue.svg)](#)
 [![Editions](https://img.shields.io/badge/edições-50+-green.svg)](#)
 
@@ -28,11 +30,11 @@ Bem-vindo ao índice central da Newsletter E-Zine Dev! Aqui você encontra todas
 
 ## 📊 Top 5 Edições Mais Lidas
 
-1. [A Próxima Evolução do Frontend: Gerenciamento de Estado com IA 🤖](2025/newsletter-linkedin-31-05-2025.md)
-2. [Curadoria de Projetos Open Source](2025/newsletter-linkedin-15-05-2025.md)
-3. [React Server Components e IA](2025/newsletter-linkedin-24-04-2025.md)
-4. [Node.js, Frontend e IA](2025/newsletter-linkedin-26-05-2025.md)
-5. [Menos Ruído, Mais Valor](2025/newsletter-linkedin-16-04-2025.md)
+1. [A Próxima Evolução do Frontend: Gerenciamento de Estado com IA 🤖](2025/frontend/newsletter-linkedin-31-05-2025.md)
+2. [Curadoria de Projetos Open Source](2025/full-stack/newsletter-linkedin-15-05-2025.md)
+3. [React Server Components e IA](2025/full-stack/newsletter-linkedin-24-04-2025.md)
+4. [Node.js, Frontend e IA](2025/full-stack/newsletter-linkedin-26-05-2025.md)
+5. [Menos Ruído, Mais Valor](2025/carreira-prod/newsletter-linkedin-16-04-2025.md)
 
 ## 🏷️ Categorias Principais
 
@@ -60,6 +62,11 @@ Bem-vindo ao índice central da Newsletter E-Zine Dev! Aqui você encontra todas
 - [GitHub](https://github.com/ramosinfo)
 - [Site Pessoal](https://ramosdainformatica.com.br)
 
-## 🔍 Busca
+## 🔍 Busca e Navegação
+
+- [Sistema de Busca](SEARCH.md) - Busca avançada por palavra-chave
+- [Índice por Ano](2025/index.md) - Navegue por data
+- [Todas as Tags](tags/index.md) - Explore por categoria
+- [Estatísticas](STATS.md) - Análise de conteúdo
 
 Use Ctrl+F ou o campo de busca acima para encontrar edições específicas por palavra-chave, tecnologia ou data.

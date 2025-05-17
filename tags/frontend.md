@@ -1,5 +1,7 @@
 # 🎨 Frontend Development
 
+[🇧🇷 Português](#) | [🇺🇸 English](/newsletter/i18n/en-US/tags/frontend.md)
+
 [![Posts](https://img.shields.io/badge/posts-15+-blue.svg)](#)
 [![Last Update](https://img.shields.io/badge/última_atualização-Maio_2025-green.svg)](#)
 
@@ -8,32 +10,16 @@ Todas as edições relacionadas a desenvolvimento Frontend, incluindo React, Vue
 ## 📝 Últimas Edições
 
 ### 2025
+- [31/05 - A Próxima Evolução do Frontend: Gestão de Estado com IA 🤖](../2025/frontend/newsletter-linkedin-31-05-2025.md)
+- [21/05 - React, Frontend e Node.js](../2025/frontend/newsletter-linkedin-21-05-2025.md)
+- [12/05 - HelloCSV, Atualizações do VS Code](../2025/frontend/newsletter-linkedin-12-05-2025.md)
 
-- [31/05 - A Próxima Evolução do Frontend: Gerenciamento de Estado com IA](../2025/frontend/newsletter-linkedin-31-05-2025.md)  
-  _Análise profunda sobre o futuro do gerenciamento de estado com IA_
+## 🔍 Navegação
 
-- [26/05 - UI Kits e Ferramentas Frontend](../2025/frontend/newsletter-linkedin-26-05-2025.md)  
-  _Novidades do Tabler 1.0 e ferramentas de produtividade_
+- [Índice de Tags](index.md)
+- [Todas as Edições](../2025/index.md)
+- [Busca](../SEARCH.md)
 
-- [21/05 - React e Gridstack.js](../2025/frontend/newsletter-linkedin-21-05-2025.md)  
-  _Criando dashboards interativos com React_
+---
 
-- [12/05 - HelloCSV, VS Code Updates, and Hyparquet](../2025/frontend/newsletter-linkedin-12-05-2025.md)  
-  _New tools for CSV handling and VS Code productivity features_
-
-## 🏷️ Tópicos Relacionados
-
-- [React](react.md)
-- [TypeScript](typescript.md)
-- [UI/UX](ui-ux.md)
-- [Performance](performance.md)
-
-## 📊 Estatísticas
-
-- Total de posts: 15+
-- Tecnologias mais discutidas: React, TypeScript, CSS
-- Tópicos populares: Performance, Acessibilidade, UI/UX
-
-## 🔍 Buscar em Frontend
-
-Use as tags: #frontend #react #typescript #css #javascript
+> 🌐 **Language Notice**: This page is also available in English. [View English version](/i18n/en-US/tags/frontend.md)

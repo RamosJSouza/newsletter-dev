@@ -1,5 +1,7 @@
 # 🏷️ Índice de Tags
 
+[🇧🇷 Português](#) | [🇺🇸 English](/newsletter/i18n/en-US/tags/index.md)
+
 [![Tags](https://img.shields.io/badge/total_tags-20+-blue.svg)](#)
 [![Posts Tagged](https://img.shields.io/badge/posts_tagged-100%25-green.svg)](#)
 

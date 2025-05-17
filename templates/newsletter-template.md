@@ -5,12 +5,16 @@ author: "Ramos de Souza Janones"
 categories: [Frontend, Backend, AI, DevOps, Career]
 tags: [reactjs, nodejs, typescript, javascript, development]
 excerpt: "{short summary of the edition}"
-cover_image: "assets/images/{category}-{topic}.jpg"
+cover_image: "/assets/images/{category}/{date}-{topic}.jpg"
 featured: false
 rating: 5
 seo_description: "Detailed SEO-optimized description of this newsletter edition"
-canonical_url: "https://ramosdainformatica.com.br/newsletter/{slug}"
+canonical_url: "https://ramosdainformatica.com.br/newsletter/{year}/{category}/{slug}"
+translationUrl: "/newsletter/i18n/en-US/{year}/{category}/{slug}.md"
+languageVersion: "pt-BR"
 ---
+
+[🇧🇷 Português](#) | [🇺🇸 English](/newsletter/i18n/en-US/{year}/{category}/{slug}.md)
 
 # {title}
 

@@ -1,5 +1,7 @@
 # 🔍 Busca Avançada
 
+[🇧🇷 Português](#) | [🇺🇸 English](i18n/en-US/SEARCH.md)
+
 Use esta página para encontrar exatamente o que procura na newsletter.
 
 ## 🎯 Busca por Tópico

@@ -1,3 +1,21 @@
+---
+title: "HelloCSV, Atualizações do VS Code e Hyparquet - 12 de Maio de 2025"
+date: "2025-05-12"
+author: "Ramos de Souza Janones"
+categories: [Frontend, Backend, AI]
+tags: [javascript, vscode, ai, frontend]
+excerpt: "Novas ferramentas para manipulação de CSV, atualizações de produtividade do VS Code e integrações com IA"
+cover_image: "/assets/images/frontend/may-12-2025.jpg"
+featured: false
+rating: 5
+seo_description: "Descubra o HelloCSV para apps JavaScript, últimas funcionalidades do VS Code e novos desenvolvimentos em ferramentas de IA"
+canonical_url: "https://ramosdainformatica.com.br/newsletter/2025/frontend/may-12-2025"
+translationUrl: "/newsletter/i18n/en-US/2025/frontend/newsletter-linkedin-12-05-2025.md"
+languageVersion: "pt-BR"
+---
+
+[🇧🇷 Português](#) | [🇺🇸 English](/newsletter/i18n/en-US/2025/frontend/newsletter-linkedin-12-05-2025.md)
+
 ## **FRONTEND E PRODUTIVIDADE**
 
 *"O código é poesia." – Atribuída a vários programadores*
