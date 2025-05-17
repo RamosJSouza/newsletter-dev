@@ -9,35 +9,35 @@ Welcome to the 2025 archive of Newsletter E-Zine Dev! Here you'll find all editi
 
 ## 📂 Categories
 
-### [💻 Frontend Development](frontend/)
+### [💻 Frontend Development](/newsletter/i18n/en-US/2025/frontend/README.md)
 > Frontend development, modern frameworks, and UI/UX.
 - Total editions: 3
 - Last update: May 31, 2025
-- [View all →](frontend/)
+- [View all →](/newsletter/i18n/en-US/2025/frontend/README.md)
 
-### [🤖 AI & Development](ai-dev/)
+### [🤖 AI & Development](/newsletter/i18n/en-US/2025/ai-dev/README.md)
 > Artificial intelligence, machine learning, and dev tools.
 - Total editions: 3
 - Last update: May 30, 2025
-- [View all →](ai-dev/)
+- [View all →](/newsletter/i18n/en-US/2025/ai-dev/README.md)
 
-### [🔄 Full Stack](full-stack/)
+### [🔄 Full Stack](/newsletter/i18n/en-US/2025/full-stack/README.md)
 > Full stack development, architecture, and integrations.
 - Total editions: 4
 - Last update: May 17, 2025
-- [View all →](full-stack/)
+- [View all →](/newsletter/i18n/en-US/2025/full-stack/README.md)
 
-### [⚙️ Backend Development](backend/)
+### [⚙️ Backend Development](/newsletter/i18n/en-US/2025/backend/README.md)
 > Backend development, databases, and APIs.
 - Total editions: 0
 - _Coming soon!_
-- [View more →](backend/)
+- [View more →](/newsletter/i18n/en-US/2025/backend/README.md)
 
-### [📈 Career & Productivity](career-prod/)
+### [📈 Career & Productivity](/newsletter/i18n/en-US/2025/career-prod/README.md)
 > Professional development and productivity.
 - Total editions: 1
 - Last update: April 16, 2025
-- [View all →](career-prod/)
+- [View all →](/newsletter/i18n/en-US/2025/career-prod/README.md)
 
 ## 📊 2025 Statistics
 
@@ -56,10 +56,10 @@ Welcome to the 2025 archive of Newsletter E-Zine Dev! Here you'll find all editi
 
 ## 🔍 Navigation
 
-- [Search System](../SEARCH.md)
-- [All Tags](../tags/index.md)
-- [Statistics](../STATS.md)
+- [Search System](/newsletter/i18n/en-US/SEARCH.md)
+- [All Tags](/newsletter/i18n/en-US/tags/index.md)
+- [Statistics](/newsletter/i18n/en-US/STATS.md)
 
 ---
 
-> 🌐 **Language Notice**: Este índice também está disponível em Português. [Ver versão em Português](/2025/index.md)
+> 🌐 **Language Notice**: Este índice também está disponível em Português. [Ver versão em Português](/newsletter/2025/index.md)
