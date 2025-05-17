@@ -1,10 +1,24 @@
 # 📰 Newsletter E-Zine Dev Ramos da Informática
 
+[🇧🇷 Português](#português) | [🇺🇸 English](#english)
+
+---
+## English
+
+Welcome to the official repository of **Newsletter E-Zine Dev Ramos da Informática**! This space is dedicated to developers and tech enthusiasts, focusing on high-quality content and practical insights from the dev universe.
+
+> For the complete English version, please visit: [English Documentation](i18n/en-US/README.md)
+
+---
+## Português
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Newsletter Subscribers](https://img.shields.io/badge/subscribers-5000+-blue.svg)](https://ramosdainformatica.com.br/newsletter)
 [![GitHub stars](https://img.shields.io/github/stars/ramosinfo/newsletter.svg)](https://github.com/ramosinfo/newsletter/stargazers)
 
 Bem-vindo ao repositório oficial da **Newsletter E-Zine Dev Ramos da Informática**! Este é um espaço dedicado a desenvolvedores e entusiastas em tecnologia, com foco em conteúdo de alta qualidade e insights práticos do universo dev.
+
+> 🌐 **Language Notice**: This repository is available in both Portuguese and English. English speakers can find the complete documentation at [i18n/en-US/README.md](i18n/en-US/README.md).
 
 > ℹ️ **Status do Projeto**
 > - 🚧 **Em Desenvolvimento**: Estamos continuamente aprimorando a estrutura e organização do conteúdo
