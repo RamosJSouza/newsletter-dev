@@ -11,6 +11,7 @@ Este diretório contém todas as newsletters focadas em desenvolvimento full sta
 
 ## 📑 Índice de Edições
 - [26/05/2025 - Node.js, Frontend e IA](newsletter-linkedin-26-05-2025.md)
+- [17/05/2025 - PostgREST, Figma Sites and LangGraph.js](newsletter-linkedin-17-05-2025.md)
 - [15/05/2025 - Curadoria de Projetos Open Source](newsletter-linkedin-15-05-2025.md)
 - [24/04/2025 - React Server Components e IA](newsletter-linkedin-24-04-2025.md)
 

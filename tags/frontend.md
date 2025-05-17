@@ -9,14 +9,17 @@ Todas as edições relacionadas a desenvolvimento Frontend, incluindo React, Vue
 
 ### 2025
 
-- [31/05 - A Próxima Evolução do Frontend: Gerenciamento de Estado com IA](../2025/newsletter-linkedin-31-05-2025.md)  
+- [31/05 - A Próxima Evolução do Frontend: Gerenciamento de Estado com IA](../2025/frontend/newsletter-linkedin-31-05-2025.md)  
   _Análise profunda sobre o futuro do gerenciamento de estado com IA_
 
-- [26/05 - UI Kits e Ferramentas Frontend](../2025/newsletter-linkedin-26-05-2025.md)  
+- [26/05 - UI Kits e Ferramentas Frontend](../2025/frontend/newsletter-linkedin-26-05-2025.md)  
   _Novidades do Tabler 1.0 e ferramentas de produtividade_
 
-- [21/05 - React e Gridstack.js](../2025/newsletter-linkedin-21-05-2025.md)  
+- [21/05 - React e Gridstack.js](../2025/frontend/newsletter-linkedin-21-05-2025.md)  
   _Criando dashboards interativos com React_
+
+- [12/05 - HelloCSV, VS Code Updates, and Hyparquet](../2025/frontend/newsletter-linkedin-12-05-2025.md)  
+  _New tools for CSV handling and VS Code productivity features_
 
 ## 🏷️ Tópicos Relacionados
 
