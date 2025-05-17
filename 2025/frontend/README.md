@@ -12,6 +12,7 @@ Este diretório contém todas as newsletters focadas em desenvolvimento frontend
 ## 📑 Índice de Edições
 - [31/05/2025 - A Próxima Evolução do Frontend e IA Dev](newsletter-linkedin-31-05-2025.md)
 - [21/05/2025 - React, Frontend e Node.js](newsletter-linkedin-21-05-2025.md)
+- [12/05/2025 - HelloCSV, VS Code Updates, and Hyparquet](newsletter-linkedin-12-05-2025.md)
 
 ## 🏷️ Tags Relacionadas
 - #react #typescript #javascript #css #html #frontend #webdev

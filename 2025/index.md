@@ -9,7 +9,7 @@ Bem-vindo ao arquivo de 2025 da Newsletter E-Zine Dev! Aqui você encontra todas
 
 ### [💻 Frontend Development](frontend/)
 > Desenvolvimento frontend, frameworks modernos e UI/UX.
-- Total de edições: 2
+- Total de edições: 3
 - Última atualização: 31/05/2025
 - [Ver todas →](frontend/)
 
@@ -21,8 +21,8 @@ Bem-vindo ao arquivo de 2025 da Newsletter E-Zine Dev! Aqui você encontra todas
 
 ### [🔄 Full Stack](full-stack/)
 > Desenvolvimento full stack, arquitetura e integrações.
-- Total de edições: 3
-- Última atualização: 26/05/2025
+- Total de edições: 4
+- Última atualização: 17/05/2025
 - [Ver todas →](full-stack/)
 
 ### [⚙️ Backend Development](backend/)
@@ -39,10 +39,10 @@ Bem-vindo ao arquivo de 2025 da Newsletter E-Zine Dev! Aqui você encontra todas
 
 ## 📊 Estatísticas 2025
 
-- Total de edições: 9
-- Categoria mais ativa: AI & Development (3 edições)
-- Mês mais produtivo: Maio (7 edições)
-- Média mensal: 4.5 edições
+- Total de edições: 11
+- Categoria mais ativa: Full Stack (4 edições)
+- Mês mais produtivo: Maio (9 edições)
+- Média mensal: 5.5 edições
 
 ## 🏷️ Tags Mais Usadas
 
