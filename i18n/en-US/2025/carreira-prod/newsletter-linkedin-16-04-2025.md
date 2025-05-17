@@ -10,7 +10,11 @@ featured: false
 rating: 5
 seo_description: "Career development, AI tools, and frontend development resources for tech professionals"
 canonical_url: "https://ramosdainformatica.com.br/newsletter/2025/career-prod/april-16-2025"
+translationUrl: "/newsletter/2025/carreira-prod/newsletter-linkedin-16-04-2025.md"
+languageVersion: "en-US"
 ---
+
+[🇧🇷 Portuguese](/newsletter/2025/carreira-prod/newsletter-linkedin-16-04-2025.md) | [🇺🇸 English](#)
 
 **I decided to publish this month's E-Zine editions here on LinkedIn. Hope you enjoy them.**
 

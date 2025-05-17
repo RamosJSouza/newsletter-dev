@@ -1,6 +1,6 @@
 # 📅 Newsletter E-Zine Dev 2025
 
-[🇧🇷 Português](#) | [🇺🇸 English](/i18n/en-US/2025/index.md)
+[🇧🇷 Português](#) | [🇺🇸 English](/newsletter/i18n/en-US/2025/index.md)
 
 [![Artigos](https://img.shields.io/badge/artigos-11-blue.svg)](#)
 [![Categorias](https://img.shields.io/badge/categorias-5-green.svg)](#)
@@ -9,35 +9,35 @@ Bem-vindo ao arquivo de 2025 da Newsletter E-Zine Dev! Aqui você encontra todas
 
 ## 📂 Categorias
 
-### [💻 Desenvolvimento Frontend](frontend/)
+### [💻 Desenvolvimento Frontend](/newsletter/i18n/pt-BR/2025/frontend/README.md)
 > Desenvolvimento frontend, frameworks modernos e UI/UX.
 - Total de edições: 3
 - Última atualização: 31/05/2025
-- [Ver todas →](frontend/)
+- [Ver todas →](/newsletter/i18n/pt-BR/2025/frontend/README.md)
 
-### [🤖 IA & Desenvolvimento](ai-dev/)
+### [🤖 IA & Desenvolvimento](/newsletter/i18n/pt-BR/2025/ai-dev/README.md)
 > Inteligência artificial, machine learning e ferramentas dev.
 - Total de edições: 3
 - Última atualização: 30/05/2025
-- [Ver todas →](ai-dev/)
+- [Ver todas →](/newsletter/i18n/pt-BR/2025/ai-dev/README.md)
 
-### [🔄 Full Stack](full-stack/)
+### [🔄 Full Stack](/newsletter/i18n/pt-BR/2025/full-stack/README.md)
 > Desenvolvimento full stack, arquitetura e integrações.
 - Total de edições: 4
 - Última atualização: 17/05/2025
-- [Ver todas →](full-stack/)
+- [Ver todas →](/newsletter/i18n/pt-BR/2025/full-stack/README.md)
 
-### [⚙️ Desenvolvimento Backend](backend/)
+### [⚙️ Desenvolvimento Backend](/newsletter/i18n/pt-BR/2025/backend/README.md)
 > Desenvolvimento backend, bancos de dados e APIs.
 - Total de edições: 0
 - _Em breve!_
-- [Ver mais →](backend/)
+- [Ver mais →](/newsletter/i18n/pt-BR/2025/backend/README.md)
 
-### [📈 Carreira & Produtividade](carreira-prod/)
+### [📈 Carreira & Produtividade](/newsletter/i18n/pt-BR/2025/carreira-prod/README.md)
 > Desenvolvimento profissional e produtividade.
 - Total de edições: 1
 - Última atualização: 16/04/2025
-- [Ver todas →](carreira-prod/)
+- [Ver todas →](/newsletter/i18n/pt-BR/2025/carreira-prod/README.md)
 
 ## 📊 Estatísticas 2025
 
